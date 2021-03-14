@@ -1,6 +1,8 @@
 ## Optimisation Model for Utilisation of Hospital Beds - COVID-19
 
 Please visit the application at : http://54.87.51.71:8501/
+(I have stopped running of the application to save cost. Please contact me and I will re-deploy the application)
+
 ### Main Description
 Application to help decision-makers optimise the distribution of beds for COVID-19 patients. It effectively informs planning, resource allocation, and mitigate the overcrowding of hospitals.
 
